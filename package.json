@@ -1,0 +1,22 @@
+{
+  "name": "@johahae/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "peerDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb": "^19.0.4"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.33.0"
+  }
+}
