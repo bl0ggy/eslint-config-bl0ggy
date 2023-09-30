@@ -4,7 +4,7 @@ module.exports = {
         node: false,
     },
     extends: [
-        '@johahae/eslint-config/base-ts',
+        '@bl0ggy/eslint-config/base-ts',
         'plugin:react/recommended',
         'airbnb',
     ],

@@ -1,3 +1,3 @@
 module.exports = {
-    extends: ['@johahae/eslint-config/base-ts'],
+    extends: ['@bl0ggy/eslint-config/base-ts'],
 };
