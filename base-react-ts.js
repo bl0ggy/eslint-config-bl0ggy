@@ -4,9 +4,9 @@ module.exports = {
         node: false,
     },
     extends: [
-        '@bl0ggy/eslint-config/base-ts',
         'plugin:react/recommended',
         'airbnb',
+        '@bl0ggy/eslint-config/base-ts',
     ],
     parser: '@typescript-eslint/parser',
     parserOptions: {
