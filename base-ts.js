@@ -33,6 +33,8 @@ module.exports = {
         }],
         'max-len': [0],
         'newline-per-chained-call': ['error', { 'ignoreChainWithDepth': 1 }],
+        'no-cond-assign': 0,
+        'no-continue': 0,
         'no-dupe-class-members': 0,
         'no-restricted-syntax': 0,
         'quote-props': 0,
